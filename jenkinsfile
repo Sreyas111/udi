@@ -8,7 +8,7 @@ git
 branch:
 'main',
 credentialsId:
-'https://github.com/Sreyas111/udie.git'
+'https://github.com/Sreyas111/udi.git'
 'GitHubCreds',
 url:}
 }
